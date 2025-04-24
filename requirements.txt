@@ -14,7 +14,7 @@ google-generativeai
 streamlit-folium
 folium
 streamlit-stl
-openrouteservices
+openrouteservice
 plotly
 geopy
 sys
