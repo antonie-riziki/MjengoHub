@@ -24,7 +24,6 @@ langchain-google-genai
 google-generativeai
 bcrypt
 captcha
-subprocess
 python-dotenv
 tqdm
 chromadb
