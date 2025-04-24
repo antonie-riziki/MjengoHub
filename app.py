@@ -1,7 +1,5 @@
 import pandas as pd 
-import soccerdata as sd
-import streamlit as st 
-import matplotlib.pyplot as plt 
+import streamlit as st  
 import seaborn as sb 
 import numpy as np  
 import csv
