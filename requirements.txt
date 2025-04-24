@@ -17,7 +17,6 @@ streamlit-stl
 openrouteservice
 plotly
 geopy
-sys
 tempfile
 langchain
 langchain-community
