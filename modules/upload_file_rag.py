@@ -34,7 +34,7 @@ def load_model():
   Func loads the model and embeddings
   """
   model = ChatGoogleGenerativeAI(
-      model="models/gemini-2.0-flash",
+      model="models/gemini-2.5-flash",
       google_api_key=GEMINI_API_KEY,
       temperature=0.4,
       convert_system_message_to_human=True
@@ -159,3 +159,4 @@ def query_system(query: str, qa_chain):
 
 # query = "what are some of the teaching that we can get from that sermon"
 # print(query_system(query, qa_chain))
+
